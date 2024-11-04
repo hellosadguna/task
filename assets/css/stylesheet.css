@@ -107,7 +107,7 @@ body {
   background-image: url(../../assets/images/BG3.png);
   background-size: contain;
   /* height: 1300px; */
-  padding: 10% 0%;
+  padding: 10% 0% 5% 0%;
   background-repeat: no-repeat;
   background-position-y: 5%;
 }
@@ -152,6 +152,21 @@ body {
 }
 
 #second_serv {
-  padding: 3%;
-  background-image: url(../../assets/images/);
+  background-image: url(../../assets/images/bg4.png);
+  background-size: cover;
+  /* height: 1300px; */
+  padding: 10% 0% 5% 0%;
+  background-repeat: no-repeat;
+  background-position-y: 5%;
+}
+#second_serv .cnt_sec {
+  padding: 50px;
+  text-align: center;
+}
+#second_serv .cnt_sec img {
+  margin-bottom: 20px;
+}
+#second_serv .cnt_sec h3 {
+  color: var(--primary-color);
+  margin-bottom: 10px;
 }/*# sourceMappingURL=stylesheet.css.map */
